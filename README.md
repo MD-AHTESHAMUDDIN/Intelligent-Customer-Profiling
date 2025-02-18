@@ -23,4 +23,4 @@ This project builds a segmentation model to classify customers based on purchasi
 ## Usage
 Run the customer segmentation script:
 ```bash
-python segment_customers.py
+Intelligent_Customer_Profiling.ipynb
