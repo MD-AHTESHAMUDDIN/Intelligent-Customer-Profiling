@@ -2,7 +2,7 @@
 
 ### **Intelligent Customer Profiling**  
 **One-line Description:**  
-A machine learning pipeline for customer segmentation and behavior-based targeting.  
+A machine learning pipeline for customer segmentation and behavior-based targeting.
 
 **README.md:**  
 ```markdown
